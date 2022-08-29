@@ -1,6 +1,6 @@
-# Web Scraping service for an E-library
+#Web Scraping service for an E-library
 
-## Features:
+##Features:
 
 - simple scrolling interface of recomended books ready for user upon entering.
   
